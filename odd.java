@@ -1,4 +1,4 @@
-public class odd {
+public class OddEven{
     public static void main(String args[]){
         int num=5;
         if(num%2==0){
